@@ -3,4 +3,4 @@ This repo references react based tutorials as a part of "Debugging in a React ap
 http://blog.codespheresolutions.com/debugging-in-a-react-application/
 
 ##sourcemap-tutorial
-This folder contains react based tutorial code for demonstrating sourcemap generation and usage in react using a gulp and npm based build process.
+This folder contains react based tutorial code for demonstrating sourcemap generation and usage in react using a gulp or npm based build process.
