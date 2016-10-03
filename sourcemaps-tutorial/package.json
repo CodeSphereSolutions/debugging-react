@@ -4,7 +4,7 @@
   "description": "Sourcemaps tutorial",
   "main": "./src/index.js",
   "author": "Codesphere Solutions",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^15.3.1",
     "react-dom": "^15.3.1"
